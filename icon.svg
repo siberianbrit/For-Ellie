@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f4f1ff"/><stop offset="1" stop-color="#d9e2ff"/></linearGradient></defs>
+<rect width="512" height="512" rx="116" fill="url(#bg)"/>
+<!-- stylised miniature schnauzer head: cropped ears, strong brows, beard and muzzle -->
+<path d="M108 170 C112 132 145 101 184 94 L222 126 C244 119 268 119 290 126 L328 94 C367 101 400 132 404 170 L378 211 C379 270 354 325 307 365 C283 385 257 394 230 394 C203 394 177 385 153 365 C106 325 81 270 82 211 Z" fill="#252936"/>
+<path d="M143 181 C159 145 193 128 230 128 C267 128 301 145 317 181 L306 233 C300 282 272 321 230 321 C188 321 160 282 154 233 Z" fill="#f5f5f6"/>
+<!-- characteristic schnauzer eyebrows -->
+<path d="M157 174 Q188 148 215 169 L207 188 Q182 176 158 193 Z" fill="#252936"/>
+<path d="M303 174 Q272 148 245 169 L253 188 Q278 176 302 193 Z" fill="#252936"/>
+<!-- eyes -->
+<ellipse cx="193" cy="191" rx="10" ry="8" fill="#11131a"/><ellipse cx="267" cy="191" rx="10" ry="8" fill="#11131a"/>
+<!-- muzzle / beard -->
+<path d="M191 217 Q230 196 269 217 L286 255 Q279 302 230 330 Q181 302 174 255 Z" fill="#dedfe3"/>
+<path d="M205 231 Q230 215 255 231 L263 258 Q252 273 230 273 Q208 273 197 258 Z" fill="#343744"/>
+<path d="M230 271 L230 296" stroke="#343744" stroke-width="8" stroke-linecap="round"/>
+<path d="M203 295 Q230 312 257 295" fill="none" stroke="#343744" stroke-width="8" stroke-linecap="round"/>
+<!-- ear folds -->
+<path d="M113 171 Q112 132 151 109 L170 141 L151 192 Z" fill="#1d202a"/>
+<path d="M347 109 Q400 132 399 171 L361 192 L342 141 Z" fill="#1d202a"/>
+</svg>
