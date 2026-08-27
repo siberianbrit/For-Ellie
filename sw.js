@@ -1,0 +1,1 @@
+const CACHE="ellie-dog-v2";self.addEventListener("install",e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(["./","index.html","config.js","manifest.json","icon.svg"]))));self.addEventListener("fetch",e=>e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request))))
